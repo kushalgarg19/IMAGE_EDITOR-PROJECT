@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image Editor</string>
+    <string name="camera_capture">Take Picture</string>
+    <string name="open_gallery">Open Gallery</string>
+</resources>
